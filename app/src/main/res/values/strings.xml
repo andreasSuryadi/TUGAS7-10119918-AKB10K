@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List Anime</string>
+
+    <string name="title">Judul Anime</string>
+    <string name="episode">Episode</string>
+    <string name="score">Score</string>
+
+    <string name="image">Image</string>
+</resources>
